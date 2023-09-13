@@ -12,4 +12,4 @@ This paper is about football defensive team analytics with event and incomplete 
 
 [Download paper here](https://arxiv.org/pdf/2212.00021.pdf)
 
-Recommended citation: Umemoto, Rikuhei, Kazushi Tsutsui, and Keisuke Fujii. "Location analysis of players in UEFA EURO 2020 and 2022 using generalized valuation of defense by estimating probabilities." arXiv preprint arXiv:2212.00021 (2022).
+<!-- Recommended citation: Umemoto, Rikuhei, Kazushi Tsutsui, and Keisuke Fujii. "Location analysis of players in UEFA EURO 2020 and 2022 using generalized valuation of defense by estimating probabilities." arXiv preprint arXiv:2212.00021 (2022). -->
