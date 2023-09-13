@@ -43,9 +43,4 @@ redirect_from:
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikuhei-ynwa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rikuhei-ynwa&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-
-<h3 align="left">My favorite team:</h3>
-<p align="left"> 
-  <a href="https://www.liverpoolfc.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Liverpool_F.C.#/media/File:Liverpool_FC.svg" alt="azure" width="40" height="40"/> 
+</p> 
