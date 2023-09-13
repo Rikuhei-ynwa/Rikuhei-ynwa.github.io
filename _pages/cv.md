@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, Kyoto University, 2022
+* M.S. in Informatics, Nagoya University, 2024 (expected)
+<!-- * Ph.D in Informatics, Nagoya University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-: Research Assistant
+  * Nagoya University
+  * Duties included: Supporting my professor's research
+  * Supervisor: Professor Fujii
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Internship
+  * Nomura Research Institute
+  * Duties included: Making a personal web page using AWS
+  * Supervisor: Hiroaki Shiotsu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (mainly)
+* Linux
+* Pytorch
+* C++
+* CSS
+* JavaScript
+* AWS
+* Azure
 
 Publications
 ======
@@ -48,12 +50,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 6 different slack teams
